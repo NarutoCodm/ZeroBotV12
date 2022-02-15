@@ -1,3 +1,7 @@
+## Note
+This is a Self Coded Bot MAde By Me And My Developers this is not a clone or sopied code here is the released code [click here](https://github.com/NarutoCodm/ZeroBotV12) 
+
+
 ## ZeroBot
 **ZeroBot is a simple moderation bot with all basics commands that a bot needs!! This is the First version of this bot and the bot gets updated with new version every month!!**
 
