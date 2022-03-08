@@ -21,6 +21,10 @@ const fetch = require("fetch");
 const db = require("quick.db")
 let number = 69
 console.log(`Number = ${number}`) //correct method
+// Connect to the database
+Nuggies.connect(process.env.MONGO_URI);
+Nuggies.handleInteractions(client);
+
 
 //----Handler------
 client.commands = new Collection();
